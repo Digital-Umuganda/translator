@@ -10,6 +10,10 @@ This is a mobile application implementation of the visit Rwanda translation feat
 * Trails
 
 This new feature allows the app to integrate the machine translation whereby visitors can communicate in English or Kinyarwanda without any hindrance, having being trained on custom data on tourism.
+<div align="left"><img src="https://github.com/Digital-Umuganda/translator/blob/main/assets/mt%20tourism%20app%20preview.jpg" style="width: 25%" /></div>
+
+The feature also allows to store favorite phrases and sentences to easily retrieve them later
+<div align="left"><img src="https://github.com/Digital-Umuganda/translator/blob/main/assets/mt%20tourism%20app%20preview%202.jpg" style="width: 25%" /></div>
 
 
 ## Future upgrades
